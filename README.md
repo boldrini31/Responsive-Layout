@@ -1,6 +1,10 @@
 
 # Primeiro Projeto de Layout com HTML/CSS/BOOTSTRAP
 
+![alt text](https://imgur.com/a/cTr2ylm)
+
+![alt text](https://imgur.com/ldhhxsJ)
+
 ## Estudos
 
 Esse website foi feito com o objetivo de iniciação e treinamento para ingressamento
