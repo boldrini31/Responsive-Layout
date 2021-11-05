@@ -1,9 +1,9 @@
 
 # Primeiro Projeto de Layout com HTML/CSS/BOOTSTRAP
 
-![alt text](https://imgur.com/a/cTr2ylm)
+<img src="https://imgur.com/a/cTr2ylm">
 
-![alt text](https://imgur.com/ldhhxsJ)
+<img src="https://imgur.com/ldhhxsJ">
 
 ## Estudos
 
